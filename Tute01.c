@@ -5,6 +5,12 @@
 #include <stdio.h>
 
 int main() {
+   
+   int n1, n2;
+   float sum = 0,avg = 0;
+   
+   printf("ENter numbers : ");
+   scanf("%d %d", &n1, &n2);
   
   return 0;
 }
